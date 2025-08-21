@@ -12,8 +12,8 @@ Một dự án Flutter mới dành cho ứng dụng mua sắm quần áo.
 
 Dưới đây là hình ảnh minh họa giao diện của ứng dụng:
 
-![UI Image](UI/Frame.jpg)
-![UI Image](UI/Frame1.jpg)
+![UI Image](UI/Frame.png)
+![UI Image](UI/Frame1.png)
 
 > *Ảnh được lưu trong thư mục `UI`.*
 
